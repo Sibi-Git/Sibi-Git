@@ -7,14 +7,11 @@
 </div>
 
 <p align="center">
-    Master's student at Columbia University exploring in Machine Learning and Artificial General Intelligence.
+    Code is like humor. When you have to explain it, it’s bad.
 </p>
 
-
 <h3 align="center">
-    Currently pursuing a Master's in Computer Science at Columbia University, specializing in the Machine Learning track. 
-    My interests lie in Machine Learning, Artificial Intelligence, and Deep Learning. 
-    I have a background in developing advanced algorithms and publishing research in these areas.
+    Currently pursuing a Master's in Computer Science at Columbia University, specializing in the Machine Learning track. My interests lie in Machine Learning, Artificial Intelligence, and Deep Learning. I have a background in developing advanced algorithms and publishing research in these areas.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
