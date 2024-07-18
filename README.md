@@ -13,7 +13,8 @@
 <h3 align="center">
     Currently pursuing a Master's in Computer Science at Columbia University, specializing in the Machine Learning track. My interests lie in Machine Learning, Artificial Intelligence, and Deep Learning. I have a background in developing advanced algorithms and publishing research in these areas.
 </h3>
-
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left">
@@ -101,9 +102,13 @@
 
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sibi-git&show_icons=true&locale=en" alt="sibi-git" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sibi-Git&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Sibi-Git's Stats">
 </p>
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibi-git&" alt="sibi-git" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibi-Git&theme=dark&hide_border=true" alt="Sibi-Git's Streak">
+</p>
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibi-Git&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Sibi-Git's Top Languages">
 </p>
