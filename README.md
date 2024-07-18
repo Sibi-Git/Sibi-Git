@@ -99,16 +99,13 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
     </a>
 </p>
+<br>
+<br>
+<br>
+
+![sibi-git's Stats](https://github-readme-stats.vercel.app/api?username=sibi-git&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sibi-Git&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Sibi-Git's Stats">
-</p>
 <br>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibi-Git&theme=dark&hide_border=true" alt="Sibi-Git's Streak">
-</p>
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibi-Git&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Sibi-Git's Top Languages">
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats-red-one.vercel.app?user=Sibi-Git&theme=dark&hide_border=true)](https://git.io/streak-stats)
