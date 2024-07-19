@@ -108,4 +108,4 @@
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-red-one.vercel.app?user=sibi-git&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![sibi-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sibi-git&theme=dark&hide_border=true)
