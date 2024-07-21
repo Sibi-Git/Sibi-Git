@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg"> 
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F8DA59&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Sibi+Marappan%2C+ML+Enthusiast%F0%9F%A4%96%F0%9F%93%8A%F0%9F%92%BB" alt="Typing SVG" />
     </a>
 </div>
