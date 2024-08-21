@@ -10,7 +10,7 @@
     Code is like humor. When you have to explain it, it’s bad.
 </p>
 
-<h3 align="center">
+<h3 align="center"> 
     Currently pursuing a Master's in Computer Science at Columbia University, specializing in the Machine Learning track. My interests lie in Machine Learning, Artificial Intelligence, and Deep Learning. I have a background in developing advanced algorithms and publishing research in these areas.
 </h3>
 <br>
