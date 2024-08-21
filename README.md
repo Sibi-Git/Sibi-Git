@@ -7,7 +7,7 @@
 </div>
  
 <p align="center">  
-    Code is like humor. When you have to explain it, it’s bad.
+    Code is like humor. When you have to explain it, it’s bad. 
 </p>
 
 <h3 align="center"> 
