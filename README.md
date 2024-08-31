@@ -24,11 +24,11 @@
 - 🔭 I’m currently working on [TBA](xyzLink)
 - 🌱 I’m currently learning **Keras | TensorFlow | OpenCV | SciPy | PyTorch**
 - 👯 I’m looking to collaborate on [TBA](xyzLink)
-- 👨‍💻 All of my projects are available at [xyzLink](xyzLink)
-- 📝 I regularly write articles on [xyzLink](xyzLink)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sibi-Git)
+- 📝 I regularly write articles on [TBA](xyzLink)
 - 💬 Ask me about **MS in CS | ML Track | Columbia University, NY**
-- 📫 How to reach me: **tba@gmail.com**
-- 📄 Know about my experiences [xyzLink](xyzLink)
+- 📫 How to reach me: **msibi.mail@gmail.com**
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sibi-marappan/)
 - ⚡ Fun fact: **Did you know that a single line of code can change the world? Just ask the programmer who accidentally launched a rocket instead of a website!**
 
 <h3 align="left">Languages and Tools:</h3>
