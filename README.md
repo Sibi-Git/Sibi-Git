@@ -21,11 +21,8 @@
     <img src="https://komarev.com/ghpvc/?username=sibi-git&label=Profile%20views&color=0e75b6&style=flat" alt="sibi-git" />
 </p>
 
-- 🔭 I’m currently working on [TBA](xyzLink)
 - 🌱 I’m currently learning **Keras | TensorFlow | OpenCV | SciPy | PyTorch**
-- 👯 I’m looking to collaborate on [TBA](xyzLink)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sibi-Git)
-- 📝 I regularly write articles on [TBA](xyzLink)
 - 💬 Ask me about **MS in CS | ML Track | Columbia University, NY**
 - 📫 How to reach me: **msibi.mail@gmail.com**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sibi-marappan/)
